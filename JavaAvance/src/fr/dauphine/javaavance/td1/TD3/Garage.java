@@ -52,7 +52,7 @@ public class Garage {
 		return "il n'y a pas cette marque";
 		
 	}
-	/*
+	
 	public void protectionism(String brand) {
 		Iterator<Vehicule> it = list.iterator();
 		while(it.hasNext()) {
@@ -62,6 +62,6 @@ public class Garage {
 			}
 		}
 	}
-	*/
+	
 	
 }
